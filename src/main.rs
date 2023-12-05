@@ -540,6 +540,30 @@ fn boolean_operation(
     Err((err, token.clone()))
 }
 
+fn equality_operation(left: Literal, right: Literal) -> Literal {
+    if let Literal::Number(num) = left {
+        if let Literal::Number(num2) = right {
+            return Literal::Number(if num == num2 { 1.0 } else { 0.0 });
+        }
+    }
+
+    if let Literal::String(str) = left {
+        if let Literal::String(str2) = right {
+            return Literal::Number(if str == str2 { 1.0 } else { 0.0 });
+        }
+    }
+
+    Literal::Number(0.0)
+}
+
+fn boolean_negation(literal: Literal) -> Literal {
+    if let Literal::Number(num) = literal {
+        Literal::Number(if num == 0.0 { 1.0 } else { 0.0 })
+    } else {
+        literal
+    }
+}
+
 impl Expression for Binary {
     fn interpret(&self, interpreter: &mut Interpreter) -> Result<Literal, (String, Token)> {
         let left = (*self.left).borrow_mut().interpret(interpreter)?;
@@ -572,49 +596,37 @@ impl Expression for Binary {
                 left,
                 right,
                 |l, r| l.powf(r),
-                String::from("Cannot sub"),
+                String::from("Cannot exponentiate"),
                 self.operator.clone(),
             ),
-            Symbol::Equals => boolean_operation(
-                left,
-                right,
-                |l, r| l == r,
-                String::from("Cannot sub"),
-                self.operator.clone(),
-            ),
-            Symbol::NotEquals => boolean_operation(
-                left,
-                right,
-                |l, r| l != r,
-                String::from("Cannot sub"),
-                self.operator.clone(),
-            ),
+            Symbol::Equals => Ok(equality_operation(left, right)),
+            Symbol::NotEquals => Ok(boolean_negation(equality_operation(left, right))),
             Symbol::Greater => boolean_operation(
                 left,
                 right,
                 |l, r| l > r,
-                String::from("Cannot sub"),
+                String::from("Cannot compare non number values"),
                 self.operator.clone(),
             ),
             Symbol::GreaterEquals => boolean_operation(
                 left,
                 right,
                 |l, r| l >= r,
-                String::from("Cannot sub"),
+                String::from("Cannot compare non number values"),
                 self.operator.clone(),
             ),
             Symbol::Lesser => boolean_operation(
                 left,
                 right,
                 |l, r| l < r,
-                String::from("Cannot sub"),
+                String::from("Cannot compare non number values"),
                 self.operator.clone(),
             ),
             Symbol::LesserEquals => boolean_operation(
                 left,
                 right,
                 |l, r| l <= r,
-                String::from("Cannot sub"),
+                String::from("Cannot compare non number values"),
                 self.operator.clone(),
             ),
             _ => Err((
