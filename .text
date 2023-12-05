@@ -1,0 +1,3750 @@
+[
+    RefCell {
+        value: Label {
+            label: 10.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 0,
+                        char: 9,
+                        source: "TAB",
+                        symbol: Identifier(
+                            "TAB",
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: FunctionCall {
+                                name: "TAB",
+                                token: Token {
+                                    line: 0,
+                                    char: 9,
+                                    source: "TAB",
+                                    symbol: Identifier(
+                                        "TAB",
+                                    ),
+                                },
+                                arguments: [
+                                    RefCell {
+                                        value: Number(
+                                            26.0,
+                                        ),
+                                    },
+                                ],
+                            },
+                        },
+                        RefCell {
+                            value: String(
+                                "ACEY DUCEY CARD GAME",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                        true,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 20.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 1,
+                        char: 9,
+                        source: "TAB",
+                        symbol: Identifier(
+                            "TAB",
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: FunctionCall {
+                                name: "TAB",
+                                token: Token {
+                                    line: 1,
+                                    char: 9,
+                                    source: "TAB",
+                                    symbol: Identifier(
+                                        "TAB",
+                                    ),
+                                },
+                                arguments: [
+                                    RefCell {
+                                        value: Number(
+                                            15.0,
+                                        ),
+                                    },
+                                ],
+                            },
+                        },
+                        RefCell {
+                            value: String(
+                                "CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                        true,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 21.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 2,
+                        char: 8,
+                        source: "\n",
+                        symbol: Newline,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 22.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 3,
+                        char: 8,
+                        source: "\n",
+                        symbol: Newline,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 30.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 4,
+                        char: 8,
+                        source: "\"ACEY-DUCEY IS PLAYED IN THE FOLLOWING MANNER \"",
+                        symbol: Literal(
+                            String(
+                                "ACEY-DUCEY IS PLAYED IN THE FOLLOWING MANNER ",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "ACEY-DUCEY IS PLAYED IN THE FOLLOWING MANNER ",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 40.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 5,
+                        char: 8,
+                        source: "\"THE DEALER (COMPUTER) DEALS TWO CARDS FACE UP\"",
+                        symbol: Literal(
+                            String(
+                                "THE DEALER (COMPUTER) DEALS TWO CARDS FACE UP",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "THE DEALER (COMPUTER) DEALS TWO CARDS FACE UP",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 50.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 6,
+                        char: 8,
+                        source: "\"YOU HAVE AN OPTION TO BET OR NOT BET DEPENDING\"",
+                        symbol: Literal(
+                            String(
+                                "YOU HAVE AN OPTION TO BET OR NOT BET DEPENDING",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "YOU HAVE AN OPTION TO BET OR NOT BET DEPENDING",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 60.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 7,
+                        char: 8,
+                        source: "\"ON WHETHER OR NOT YOU FEEL THE CARD WILL HAVE\"",
+                        symbol: Literal(
+                            String(
+                                "ON WHETHER OR NOT YOU FEEL THE CARD WILL HAVE",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "ON WHETHER OR NOT YOU FEEL THE CARD WILL HAVE",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 70.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 8,
+                        char: 8,
+                        source: "\"A VALUE BETWEEN THE FIRST TWO.\"",
+                        symbol: Literal(
+                            String(
+                                "A VALUE BETWEEN THE FIRST TWO.",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "A VALUE BETWEEN THE FIRST TWO.",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 80.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 9,
+                        char: 8,
+                        source: "\"IF YOU DO NOT WANT TO BET, INPUT A 0\"",
+                        symbol: Literal(
+                            String(
+                                "IF YOU DO NOT WANT TO BET, INPUT A 0",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "IF YOU DO NOT WANT TO BET, INPUT A 0",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 100.0,
+            statement: RefCell {
+                value: Assign {
+                    token: Token {
+                        line: 10,
+                        char: 5,
+                        source: "=",
+                        symbol: Equals,
+                    },
+                    target: RefCell {
+                        value: Variable {
+                            name: "N",
+                            token: Token {
+                                line: 10,
+                                char: 4,
+                                source: "N",
+                                symbol: Identifier(
+                                    "N",
+                                ),
+                            },
+                        },
+                    },
+                    value: RefCell {
+                        value: Number(
+                            100.0,
+                        ),
+                    },
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 110.0,
+            statement: RefCell {
+                value: Assign {
+                    token: Token {
+                        line: 11,
+                        char: 5,
+                        source: "=",
+                        symbol: Equals,
+                    },
+                    target: RefCell {
+                        value: Variable {
+                            name: "Q",
+                            token: Token {
+                                line: 11,
+                                char: 4,
+                                source: "Q",
+                                symbol: Identifier(
+                                    "Q",
+                                ),
+                            },
+                        },
+                    },
+                    value: RefCell {
+                        value: Number(
+                            100.0,
+                        ),
+                    },
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 120.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 12,
+                        char: 10,
+                        source: "\"YOU NOW HAVE\"",
+                        symbol: Literal(
+                            String(
+                                "YOU NOW HAVE",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "YOU NOW HAVE",
+                            ),
+                        },
+                        RefCell {
+                            value: Variable {
+                                name: "Q",
+                                token: Token {
+                                    line: 12,
+                                    char: 25,
+                                    source: "Q",
+                                    symbol: Identifier(
+                                        "Q",
+                                    ),
+                                },
+                            },
+                        },
+                        RefCell {
+                            value: String(
+                                "DOLLARS.",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                        true,
+                        true,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 130.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 13,
+                        char: 9,
+                        source: "\n",
+                        symbol: Newline,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 140.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 14,
+                        char: 9,
+                        source: "260",
+                        symbol: Literal(
+                            Number(
+                                260.0,
+                            ),
+                        ),
+                    },
+                    label: 260.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 210.0,
+            statement: RefCell {
+                value: Assign {
+                    token: Token {
+                        line: 15,
+                        char: 5,
+                        source: "=",
+                        symbol: Equals,
+                    },
+                    target: RefCell {
+                        value: Variable {
+                            name: "Q",
+                            token: Token {
+                                line: 15,
+                                char: 4,
+                                source: "Q",
+                                symbol: Identifier(
+                                    "Q",
+                                ),
+                            },
+                        },
+                    },
+                    value: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "Q",
+                                    token: Token {
+                                        line: 15,
+                                        char: 6,
+                                        source: "Q",
+                                        symbol: Identifier(
+                                            "Q",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 15,
+                                char: 7,
+                                source: "+",
+                                symbol: Plus,
+                            },
+                            right: RefCell {
+                                value: Variable {
+                                    name: "M",
+                                    token: Token {
+                                        line: 15,
+                                        char: 8,
+                                        source: "M",
+                                        symbol: Identifier(
+                                            "M",
+                                        ),
+                                    },
+                                },
+                            },
+                        },
+                    },
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 220.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 16,
+                        char: 9,
+                        source: "120",
+                        symbol: Literal(
+                            Number(
+                                120.0,
+                            ),
+                        ),
+                    },
+                    label: 120.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 240.0,
+            statement: RefCell {
+                value: Assign {
+                    token: Token {
+                        line: 17,
+                        char: 5,
+                        source: "=",
+                        symbol: Equals,
+                    },
+                    target: RefCell {
+                        value: Variable {
+                            name: "Q",
+                            token: Token {
+                                line: 17,
+                                char: 4,
+                                source: "Q",
+                                symbol: Identifier(
+                                    "Q",
+                                ),
+                            },
+                        },
+                    },
+                    value: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "Q",
+                                    token: Token {
+                                        line: 17,
+                                        char: 6,
+                                        source: "Q",
+                                        symbol: Identifier(
+                                            "Q",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 17,
+                                char: 7,
+                                source: "-",
+                                symbol: Minus,
+                            },
+                            right: RefCell {
+                                value: Variable {
+                                    name: "M",
+                                    token: Token {
+                                        line: 17,
+                                        char: 8,
+                                        source: "M",
+                                        symbol: Identifier(
+                                            "M",
+                                        ),
+                                    },
+                                },
+                            },
+                        },
+                    },
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 250.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 18,
+                        char: 9,
+                        source: "120",
+                        symbol: Literal(
+                            Number(
+                                120.0,
+                            ),
+                        ),
+                    },
+                    label: 120.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 260.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 19,
+                        char: 9,
+                        source: "\"HERE ARE YOUR NEXT TWO CARDS: \"",
+                        symbol: Literal(
+                            String(
+                                "HERE ARE YOUR NEXT TWO CARDS: ",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "HERE ARE YOUR NEXT TWO CARDS: ",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 270.0,
+            statement: RefCell {
+                value: Assign {
+                    token: Token {
+                        line: 20,
+                        char: 5,
+                        source: "=",
+                        symbol: Equals,
+                    },
+                    target: RefCell {
+                        value: Variable {
+                            name: "A",
+                            token: Token {
+                                line: 20,
+                                char: 4,
+                                source: "A",
+                                symbol: Identifier(
+                                    "A",
+                                ),
+                            },
+                        },
+                    },
+                    value: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: FunctionCall {
+                                    name: "INT",
+                                    token: Token {
+                                        line: 20,
+                                        char: 6,
+                                        source: "INT",
+                                        symbol: Identifier(
+                                            "INT",
+                                        ),
+                                    },
+                                    arguments: [
+                                        RefCell {
+                                            value: Binary {
+                                                left: RefCell {
+                                                    value: Number(
+                                                        14.0,
+                                                    ),
+                                                },
+                                                operator: Token {
+                                                    line: 20,
+                                                    char: 12,
+                                                    source: "*",
+                                                    symbol: Star,
+                                                },
+                                                right: RefCell {
+                                                    value: FunctionCall {
+                                                        name: "RND",
+                                                        token: Token {
+                                                            line: 20,
+                                                            char: 13,
+                                                            source: "RND",
+                                                            symbol: Identifier(
+                                                                "RND",
+                                                            ),
+                                                        },
+                                                        arguments: [
+                                                            RefCell {
+                                                                value: Number(
+                                                                    1.0,
+                                                                ),
+                                                            },
+                                                        ],
+                                                    },
+                                                },
+                                            },
+                                        },
+                                    ],
+                                },
+                            },
+                            operator: Token {
+                                line: 20,
+                                char: 20,
+                                source: "+",
+                                symbol: Plus,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    2.0,
+                                ),
+                            },
+                        },
+                    },
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 280.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "A",
+                                    token: Token {
+                                        line: 21,
+                                        char: 7,
+                                        source: "A",
+                                        symbol: Identifier(
+                                            "A",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 21,
+                                char: 8,
+                                source: "<",
+                                symbol: Lesser,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    2.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 21,
+                                    char: 16,
+                                    source: "270",
+                                    symbol: Literal(
+                                        Number(
+                                            270.0,
+                                        ),
+                                    ),
+                                },
+                                label: 270.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 290.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "A",
+                                    token: Token {
+                                        line: 22,
+                                        char: 7,
+                                        source: "A",
+                                        symbol: Identifier(
+                                            "A",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 22,
+                                char: 8,
+                                source: ">",
+                                symbol: Greater,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    14.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 22,
+                                    char: 17,
+                                    source: "270",
+                                    symbol: Literal(
+                                        Number(
+                                            270.0,
+                                        ),
+                                    ),
+                                },
+                                label: 270.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 300.0,
+            statement: RefCell {
+                value: Assign {
+                    token: Token {
+                        line: 23,
+                        char: 5,
+                        source: "=",
+                        symbol: Equals,
+                    },
+                    target: RefCell {
+                        value: Variable {
+                            name: "B",
+                            token: Token {
+                                line: 23,
+                                char: 4,
+                                source: "B",
+                                symbol: Identifier(
+                                    "B",
+                                ),
+                            },
+                        },
+                    },
+                    value: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: FunctionCall {
+                                    name: "INT",
+                                    token: Token {
+                                        line: 23,
+                                        char: 6,
+                                        source: "INT",
+                                        symbol: Identifier(
+                                            "INT",
+                                        ),
+                                    },
+                                    arguments: [
+                                        RefCell {
+                                            value: Binary {
+                                                left: RefCell {
+                                                    value: Number(
+                                                        14.0,
+                                                    ),
+                                                },
+                                                operator: Token {
+                                                    line: 23,
+                                                    char: 12,
+                                                    source: "*",
+                                                    symbol: Star,
+                                                },
+                                                right: RefCell {
+                                                    value: FunctionCall {
+                                                        name: "RND",
+                                                        token: Token {
+                                                            line: 23,
+                                                            char: 13,
+                                                            source: "RND",
+                                                            symbol: Identifier(
+                                                                "RND",
+                                                            ),
+                                                        },
+                                                        arguments: [
+                                                            RefCell {
+                                                                value: Number(
+                                                                    1.0,
+                                                                ),
+                                                            },
+                                                        ],
+                                                    },
+                                                },
+                                            },
+                                        },
+                                    ],
+                                },
+                            },
+                            operator: Token {
+                                line: 23,
+                                char: 20,
+                                source: "+",
+                                symbol: Plus,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    2.0,
+                                ),
+                            },
+                        },
+                    },
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 310.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "B",
+                                    token: Token {
+                                        line: 24,
+                                        char: 7,
+                                        source: "B",
+                                        symbol: Identifier(
+                                            "B",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 24,
+                                char: 8,
+                                source: "<",
+                                symbol: Lesser,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    2.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 24,
+                                    char: 16,
+                                    source: "300",
+                                    symbol: Literal(
+                                        Number(
+                                            300.0,
+                                        ),
+                                    ),
+                                },
+                                label: 300.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 320.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "B",
+                                    token: Token {
+                                        line: 25,
+                                        char: 7,
+                                        source: "B",
+                                        symbol: Identifier(
+                                            "B",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 25,
+                                char: 8,
+                                source: ">",
+                                symbol: Greater,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    14.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 25,
+                                    char: 17,
+                                    source: "300",
+                                    symbol: Literal(
+                                        Number(
+                                            300.0,
+                                        ),
+                                    ),
+                                },
+                                label: 300.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 330.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "A",
+                                    token: Token {
+                                        line: 26,
+                                        char: 7,
+                                        source: "A",
+                                        symbol: Identifier(
+                                            "A",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 26,
+                                char: 8,
+                                source: ">=",
+                                symbol: GreaterEquals,
+                            },
+                            right: RefCell {
+                                value: Variable {
+                                    name: "B",
+                                    token: Token {
+                                        line: 26,
+                                        char: 10,
+                                        source: "B",
+                                        symbol: Identifier(
+                                            "B",
+                                        ),
+                                    },
+                                },
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 26,
+                                    char: 17,
+                                    source: "270",
+                                    symbol: Literal(
+                                        Number(
+                                            270.0,
+                                        ),
+                                    ),
+                                },
+                                label: 270.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 350.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "A",
+                                    token: Token {
+                                        line: 27,
+                                        char: 7,
+                                        source: "A",
+                                        symbol: Identifier(
+                                            "A",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 27,
+                                char: 8,
+                                source: "<",
+                                symbol: Lesser,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    11.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 27,
+                                    char: 17,
+                                    source: "400",
+                                    symbol: Literal(
+                                        Number(
+                                            400.0,
+                                        ),
+                                    ),
+                                },
+                                label: 400.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 360.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "A",
+                                    token: Token {
+                                        line: 28,
+                                        char: 7,
+                                        source: "A",
+                                        symbol: Identifier(
+                                            "A",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 28,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    11.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 28,
+                                    char: 17,
+                                    source: "420",
+                                    symbol: Literal(
+                                        Number(
+                                            420.0,
+                                        ),
+                                    ),
+                                },
+                                label: 420.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 370.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "A",
+                                    token: Token {
+                                        line: 29,
+                                        char: 7,
+                                        source: "A",
+                                        symbol: Identifier(
+                                            "A",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 29,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    12.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 29,
+                                    char: 17,
+                                    source: "440",
+                                    symbol: Literal(
+                                        Number(
+                                            440.0,
+                                        ),
+                                    ),
+                                },
+                                label: 440.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 380.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "A",
+                                    token: Token {
+                                        line: 30,
+                                        char: 7,
+                                        source: "A",
+                                        symbol: Identifier(
+                                            "A",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 30,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    13.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 30,
+                                    char: 17,
+                                    source: "460",
+                                    symbol: Literal(
+                                        Number(
+                                            460.0,
+                                        ),
+                                    ),
+                                },
+                                label: 460.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 390.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "A",
+                                    token: Token {
+                                        line: 31,
+                                        char: 7,
+                                        source: "A",
+                                        symbol: Identifier(
+                                            "A",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 31,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    14.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 31,
+                                    char: 17,
+                                    source: "480",
+                                    symbol: Literal(
+                                        Number(
+                                            480.0,
+                                        ),
+                                    ),
+                                },
+                                label: 480.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 400.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 32,
+                        char: 10,
+                        source: "A",
+                        symbol: Identifier(
+                            "A",
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: Variable {
+                                name: "A",
+                                token: Token {
+                                    line: 32,
+                                    char: 10,
+                                    source: "A",
+                                    symbol: Identifier(
+                                        "A",
+                                    ),
+                                },
+                            },
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 410.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 33,
+                        char: 9,
+                        source: "500",
+                        symbol: Literal(
+                            Number(
+                                500.0,
+                            ),
+                        ),
+                    },
+                    label: 500.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 420.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 34,
+                        char: 9,
+                        source: "\"JACK\"",
+                        symbol: Literal(
+                            String(
+                                "JACK",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "JACK",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 430.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 35,
+                        char: 9,
+                        source: "500",
+                        symbol: Literal(
+                            Number(
+                                500.0,
+                            ),
+                        ),
+                    },
+                    label: 500.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 440.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 36,
+                        char: 9,
+                        source: "\"QUEEN\"",
+                        symbol: Literal(
+                            String(
+                                "QUEEN",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "QUEEN",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 450.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 37,
+                        char: 9,
+                        source: "500",
+                        symbol: Literal(
+                            Number(
+                                500.0,
+                            ),
+                        ),
+                    },
+                    label: 500.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 460.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 38,
+                        char: 9,
+                        source: "\"KING\"",
+                        symbol: Literal(
+                            String(
+                                "KING",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "KING",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 470.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 39,
+                        char: 9,
+                        source: "500",
+                        symbol: Literal(
+                            Number(
+                                500.0,
+                            ),
+                        ),
+                    },
+                    label: 500.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 480.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 40,
+                        char: 9,
+                        source: "\"ACE\"",
+                        symbol: Literal(
+                            String(
+                                "ACE",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "ACE",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 500.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "B",
+                                    token: Token {
+                                        line: 41,
+                                        char: 7,
+                                        source: "B",
+                                        symbol: Identifier(
+                                            "B",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 41,
+                                char: 8,
+                                source: "<",
+                                symbol: Lesser,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    11.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 41,
+                                    char: 17,
+                                    source: "550",
+                                    symbol: Literal(
+                                        Number(
+                                            550.0,
+                                        ),
+                                    ),
+                                },
+                                label: 550.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 510.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "B",
+                                    token: Token {
+                                        line: 42,
+                                        char: 7,
+                                        source: "B",
+                                        symbol: Identifier(
+                                            "B",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 42,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    11.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 42,
+                                    char: 17,
+                                    source: "570",
+                                    symbol: Literal(
+                                        Number(
+                                            570.0,
+                                        ),
+                                    ),
+                                },
+                                label: 570.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 520.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "B",
+                                    token: Token {
+                                        line: 43,
+                                        char: 7,
+                                        source: "B",
+                                        symbol: Identifier(
+                                            "B",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 43,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    12.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 43,
+                                    char: 17,
+                                    source: "590",
+                                    symbol: Literal(
+                                        Number(
+                                            590.0,
+                                        ),
+                                    ),
+                                },
+                                label: 590.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 530.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "B",
+                                    token: Token {
+                                        line: 44,
+                                        char: 7,
+                                        source: "B",
+                                        symbol: Identifier(
+                                            "B",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 44,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    13.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 44,
+                                    char: 17,
+                                    source: "610",
+                                    symbol: Literal(
+                                        Number(
+                                            610.0,
+                                        ),
+                                    ),
+                                },
+                                label: 610.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 540.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "B",
+                                    token: Token {
+                                        line: 45,
+                                        char: 7,
+                                        source: "B",
+                                        symbol: Identifier(
+                                            "B",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 45,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    14.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 45,
+                                    char: 17,
+                                    source: "630",
+                                    symbol: Literal(
+                                        Number(
+                                            630.0,
+                                        ),
+                                    ),
+                                },
+                                label: 630.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 550.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 46,
+                        char: 10,
+                        source: "B",
+                        symbol: Identifier(
+                            "B",
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: Variable {
+                                name: "B",
+                                token: Token {
+                                    line: 46,
+                                    char: 10,
+                                    source: "B",
+                                    symbol: Identifier(
+                                        "B",
+                                    ),
+                                },
+                            },
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 560.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 47,
+                        char: 9,
+                        source: "650",
+                        symbol: Literal(
+                            Number(
+                                650.0,
+                            ),
+                        ),
+                    },
+                    label: 650.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 570.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 48,
+                        char: 9,
+                        source: "\"JACK\"",
+                        symbol: Literal(
+                            String(
+                                "JACK",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "JACK",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 580.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 49,
+                        char: 9,
+                        source: "650",
+                        symbol: Literal(
+                            Number(
+                                650.0,
+                            ),
+                        ),
+                    },
+                    label: 650.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 590.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 50,
+                        char: 9,
+                        source: "\"QUEEN\"",
+                        symbol: Literal(
+                            String(
+                                "QUEEN",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "QUEEN",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 600.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 51,
+                        char: 9,
+                        source: "650",
+                        symbol: Literal(
+                            Number(
+                                650.0,
+                            ),
+                        ),
+                    },
+                    label: 650.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 610.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 52,
+                        char: 9,
+                        source: "\"KING\"",
+                        symbol: Literal(
+                            String(
+                                "KING",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "KING",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 620.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 53,
+                        char: 9,
+                        source: "650",
+                        symbol: Literal(
+                            Number(
+                                650.0,
+                            ),
+                        ),
+                    },
+                    label: 650.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 630.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 54,
+                        char: 9,
+                        source: "\"ACE\"",
+                        symbol: Literal(
+                            String(
+                                "ACE",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "ACE",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 640.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 55,
+                        char: 9,
+                        source: "\n",
+                        symbol: Newline,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 650.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 56,
+                        char: 9,
+                        source: "\n",
+                        symbol: Newline,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 660.0,
+            statement: RefCell {
+                value: Input {
+                    token: Token {
+                        line: 57,
+                        char: 9,
+                        source: "\"WHAT IS YOUR BET\"",
+                        symbol: Literal(
+                            String(
+                                "WHAT IS YOUR BET",
+                            ),
+                        ),
+                    },
+                    prompt: Some(
+                        "WHAT IS YOUR BET",
+                    ),
+                    variables: [
+                        RefCell {
+                            value: Variable {
+                                name: "M",
+                                token: Token {
+                                    line: 57,
+                                    char: 28,
+                                    source: "M",
+                                    symbol: Identifier(
+                                        "M",
+                                    ),
+                                },
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 670.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "M",
+                                    token: Token {
+                                        line: 58,
+                                        char: 7,
+                                        source: "M",
+                                        symbol: Identifier(
+                                            "M",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 58,
+                                char: 8,
+                                source: "<>",
+                                symbol: NotEquals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    0.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 58,
+                                    char: 17,
+                                    source: "680",
+                                    symbol: Literal(
+                                        Number(
+                                            680.0,
+                                        ),
+                                    ),
+                                },
+                                label: 680.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 675.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 59,
+                        char: 9,
+                        source: "\"CHICKEN!!\"",
+                        symbol: Literal(
+                            String(
+                                "CHICKEN!!",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "CHICKEN!!",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 676.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 60,
+                        char: 9,
+                        source: "\n",
+                        symbol: Newline,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 677.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 61,
+                        char: 9,
+                        source: "260",
+                        symbol: Literal(
+                            Number(
+                                260.0,
+                            ),
+                        ),
+                    },
+                    label: 260.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 680.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "M",
+                                    token: Token {
+                                        line: 62,
+                                        char: 7,
+                                        source: "M",
+                                        symbol: Identifier(
+                                            "M",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 62,
+                                char: 8,
+                                source: "<=",
+                                symbol: LesserEquals,
+                            },
+                            right: RefCell {
+                                value: Variable {
+                                    name: "Q",
+                                    token: Token {
+                                        line: 62,
+                                        char: 10,
+                                        source: "Q",
+                                        symbol: Identifier(
+                                            "Q",
+                                        ),
+                                    },
+                                },
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 62,
+                                    char: 17,
+                                    source: "730",
+                                    symbol: Literal(
+                                        Number(
+                                            730.0,
+                                        ),
+                                    ),
+                                },
+                                label: 730.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 690.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 63,
+                        char: 9,
+                        source: "\"SORRY, MY FRIEND, BUT YOU BET TOO MUCH.\"",
+                        symbol: Literal(
+                            String(
+                                "SORRY, MY FRIEND, BUT YOU BET TOO MUCH.",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "SORRY, MY FRIEND, BUT YOU BET TOO MUCH.",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 700.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 64,
+                        char: 9,
+                        source: "\"YOU HAVE ONLY \"",
+                        symbol: Literal(
+                            String(
+                                "YOU HAVE ONLY ",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "YOU HAVE ONLY ",
+                            ),
+                        },
+                        RefCell {
+                            value: Variable {
+                                name: "Q",
+                                token: Token {
+                                    line: 64,
+                                    char: 26,
+                                    source: "Q",
+                                    symbol: Identifier(
+                                        "Q",
+                                    ),
+                                },
+                            },
+                        },
+                        RefCell {
+                            value: String(
+                                " DOLLARS TO BET.",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                        true,
+                        true,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 710.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 65,
+                        char: 9,
+                        source: "650",
+                        symbol: Literal(
+                            Number(
+                                650.0,
+                            ),
+                        ),
+                    },
+                    label: 650.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 730.0,
+            statement: RefCell {
+                value: Assign {
+                    token: Token {
+                        line: 66,
+                        char: 5,
+                        source: "=",
+                        symbol: Equals,
+                    },
+                    target: RefCell {
+                        value: Variable {
+                            name: "C",
+                            token: Token {
+                                line: 66,
+                                char: 4,
+                                source: "C",
+                                symbol: Identifier(
+                                    "C",
+                                ),
+                            },
+                        },
+                    },
+                    value: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: FunctionCall {
+                                    name: "INT",
+                                    token: Token {
+                                        line: 66,
+                                        char: 6,
+                                        source: "INT",
+                                        symbol: Identifier(
+                                            "INT",
+                                        ),
+                                    },
+                                    arguments: [
+                                        RefCell {
+                                            value: Binary {
+                                                left: RefCell {
+                                                    value: Number(
+                                                        14.0,
+                                                    ),
+                                                },
+                                                operator: Token {
+                                                    line: 66,
+                                                    char: 12,
+                                                    source: "*",
+                                                    symbol: Star,
+                                                },
+                                                right: RefCell {
+                                                    value: FunctionCall {
+                                                        name: "RND",
+                                                        token: Token {
+                                                            line: 66,
+                                                            char: 13,
+                                                            source: "RND",
+                                                            symbol: Identifier(
+                                                                "RND",
+                                                            ),
+                                                        },
+                                                        arguments: [
+                                                            RefCell {
+                                                                value: Number(
+                                                                    1.0,
+                                                                ),
+                                                            },
+                                                        ],
+                                                    },
+                                                },
+                                            },
+                                        },
+                                    ],
+                                },
+                            },
+                            operator: Token {
+                                line: 66,
+                                char: 20,
+                                source: "+",
+                                symbol: Plus,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    2.0,
+                                ),
+                            },
+                        },
+                    },
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 740.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "C",
+                                    token: Token {
+                                        line: 67,
+                                        char: 7,
+                                        source: "C",
+                                        symbol: Identifier(
+                                            "C",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 67,
+                                char: 8,
+                                source: "<",
+                                symbol: Lesser,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    2.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 67,
+                                    char: 16,
+                                    source: "730",
+                                    symbol: Literal(
+                                        Number(
+                                            730.0,
+                                        ),
+                                    ),
+                                },
+                                label: 730.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 750.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "C",
+                                    token: Token {
+                                        line: 68,
+                                        char: 7,
+                                        source: "C",
+                                        symbol: Identifier(
+                                            "C",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 68,
+                                char: 8,
+                                source: ">",
+                                symbol: Greater,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    14.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 68,
+                                    char: 17,
+                                    source: "730",
+                                    symbol: Literal(
+                                        Number(
+                                            730.0,
+                                        ),
+                                    ),
+                                },
+                                label: 730.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 760.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "C",
+                                    token: Token {
+                                        line: 69,
+                                        char: 7,
+                                        source: "C",
+                                        symbol: Identifier(
+                                            "C",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 69,
+                                char: 8,
+                                source: "<",
+                                symbol: Lesser,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    11.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 69,
+                                    char: 17,
+                                    source: "810",
+                                    symbol: Literal(
+                                        Number(
+                                            810.0,
+                                        ),
+                                    ),
+                                },
+                                label: 810.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 770.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "C",
+                                    token: Token {
+                                        line: 70,
+                                        char: 7,
+                                        source: "C",
+                                        symbol: Identifier(
+                                            "C",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 70,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    11.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 70,
+                                    char: 17,
+                                    source: "830",
+                                    symbol: Literal(
+                                        Number(
+                                            830.0,
+                                        ),
+                                    ),
+                                },
+                                label: 830.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 780.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "C",
+                                    token: Token {
+                                        line: 71,
+                                        char: 7,
+                                        source: "C",
+                                        symbol: Identifier(
+                                            "C",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 71,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    12.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 71,
+                                    char: 17,
+                                    source: "850",
+                                    symbol: Literal(
+                                        Number(
+                                            850.0,
+                                        ),
+                                    ),
+                                },
+                                label: 850.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 790.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "C",
+                                    token: Token {
+                                        line: 72,
+                                        char: 7,
+                                        source: "C",
+                                        symbol: Identifier(
+                                            "C",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 72,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    13.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 72,
+                                    char: 17,
+                                    source: "870",
+                                    symbol: Literal(
+                                        Number(
+                                            870.0,
+                                        ),
+                                    ),
+                                },
+                                label: 870.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 800.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "C",
+                                    token: Token {
+                                        line: 73,
+                                        char: 7,
+                                        source: "C",
+                                        symbol: Identifier(
+                                            "C",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 73,
+                                char: 8,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: Number(
+                                    14.0,
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 73,
+                                    char: 17,
+                                    source: "890",
+                                    symbol: Literal(
+                                        Number(
+                                            890.0,
+                                        ),
+                                    ),
+                                },
+                                label: 890.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 810.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 74,
+                        char: 10,
+                        source: "C",
+                        symbol: Identifier(
+                            "C",
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: Variable {
+                                name: "C",
+                                token: Token {
+                                    line: 74,
+                                    char: 10,
+                                    source: "C",
+                                    symbol: Identifier(
+                                        "C",
+                                    ),
+                                },
+                            },
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 820.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 75,
+                        char: 9,
+                        source: "910",
+                        symbol: Literal(
+                            Number(
+                                910.0,
+                            ),
+                        ),
+                    },
+                    label: 910.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 830.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 76,
+                        char: 9,
+                        source: "\"JACK\"",
+                        symbol: Literal(
+                            String(
+                                "JACK",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "JACK",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 840.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 77,
+                        char: 9,
+                        source: "910",
+                        symbol: Literal(
+                            Number(
+                                910.0,
+                            ),
+                        ),
+                    },
+                    label: 910.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 850.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 78,
+                        char: 9,
+                        source: "\"QUEEN\"",
+                        symbol: Literal(
+                            String(
+                                "QUEEN",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "QUEEN",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 860.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 79,
+                        char: 9,
+                        source: "910",
+                        symbol: Literal(
+                            Number(
+                                910.0,
+                            ),
+                        ),
+                    },
+                    label: 910.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 870.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 80,
+                        char: 9,
+                        source: "\"KING\"",
+                        symbol: Literal(
+                            String(
+                                "KING",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "KING",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 880.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 81,
+                        char: 9,
+                        source: "910",
+                        symbol: Literal(
+                            Number(
+                                910.0,
+                            ),
+                        ),
+                    },
+                    label: 910.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 890.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 82,
+                        char: 10,
+                        source: "\"ACE\"",
+                        symbol: Literal(
+                            String(
+                                "ACE",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "ACE",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 900.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 83,
+                        char: 9,
+                        source: "\n",
+                        symbol: Newline,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 910.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "C",
+                                    token: Token {
+                                        line: 84,
+                                        char: 7,
+                                        source: "C",
+                                        symbol: Identifier(
+                                            "C",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 84,
+                                char: 8,
+                                source: ">",
+                                symbol: Greater,
+                            },
+                            right: RefCell {
+                                value: Variable {
+                                    name: "A",
+                                    token: Token {
+                                        line: 84,
+                                        char: 9,
+                                        source: "A",
+                                        symbol: Identifier(
+                                            "A",
+                                        ),
+                                    },
+                                },
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 84,
+                                    char: 16,
+                                    source: "930",
+                                    symbol: Literal(
+                                        Number(
+                                            930.0,
+                                        ),
+                                    ),
+                                },
+                                label: 930.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 920.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 85,
+                        char: 9,
+                        source: "970",
+                        symbol: Literal(
+                            Number(
+                                970.0,
+                            ),
+                        ),
+                    },
+                    label: 970.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 930.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "C",
+                                    token: Token {
+                                        line: 86,
+                                        char: 7,
+                                        source: "C",
+                                        symbol: Identifier(
+                                            "C",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 86,
+                                char: 8,
+                                source: ">=",
+                                symbol: GreaterEquals,
+                            },
+                            right: RefCell {
+                                value: Variable {
+                                    name: "B",
+                                    token: Token {
+                                        line: 86,
+                                        char: 10,
+                                        source: "B",
+                                        symbol: Identifier(
+                                            "B",
+                                        ),
+                                    },
+                                },
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 86,
+                                    char: 17,
+                                    source: "970",
+                                    symbol: Literal(
+                                        Number(
+                                            970.0,
+                                        ),
+                                    ),
+                                },
+                                label: 970.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 950.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 87,
+                        char: 9,
+                        source: "\"YOU WIN!!!\"",
+                        symbol: Literal(
+                            String(
+                                "YOU WIN!!!",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "YOU WIN!!!",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 960.0,
+            statement: RefCell {
+                value: GoTo {
+                    token: Token {
+                        line: 88,
+                        char: 9,
+                        source: "210",
+                        symbol: Literal(
+                            Number(
+                                210.0,
+                            ),
+                        ),
+                    },
+                    label: 210.0,
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 970.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 89,
+                        char: 9,
+                        source: "\"SORRY, YOU LOSE\"",
+                        symbol: Literal(
+                            String(
+                                "SORRY, YOU LOSE",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "SORRY, YOU LOSE",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 980.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "M",
+                                    token: Token {
+                                        line: 90,
+                                        char: 7,
+                                        source: "M",
+                                        symbol: Identifier(
+                                            "M",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 90,
+                                char: 8,
+                                source: "<",
+                                symbol: Lesser,
+                            },
+                            right: RefCell {
+                                value: Variable {
+                                    name: "Q",
+                                    token: Token {
+                                        line: 90,
+                                        char: 9,
+                                        source: "Q",
+                                        symbol: Identifier(
+                                            "Q",
+                                        ),
+                                    },
+                                },
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 90,
+                                    char: 16,
+                                    source: "240",
+                                    symbol: Literal(
+                                        Number(
+                                            240.0,
+                                        ),
+                                    ),
+                                },
+                                label: 240.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 990.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 91,
+                        char: 9,
+                        source: "\n",
+                        symbol: Newline,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 1000.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 92,
+                        char: 10,
+                        source: "\n",
+                        symbol: Newline,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 1010.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 93,
+                        char: 10,
+                        source: "\"SORRY, FRIEND, BUT YOU BLEW YOUR WAD.\"",
+                        symbol: Literal(
+                            String(
+                                "SORRY, FRIEND, BUT YOU BLEW YOUR WAD.",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "SORRY, FRIEND, BUT YOU BLEW YOUR WAD.",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 1015.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 94,
+                        char: 10,
+                        source: ":",
+                        symbol: Colon,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Print {
+            token: Token {
+                line: 94,
+                char: 16,
+                source: "\n",
+                symbol: Newline,
+            },
+            expressions: [],
+            spaced: [
+                false,
+            ],
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 1020.0,
+            statement: RefCell {
+                value: Input {
+                    token: Token {
+                        line: 95,
+                        char: 10,
+                        source: "\"TRY AGAIN (YES OR NO)\"",
+                        symbol: Literal(
+                            String(
+                                "TRY AGAIN (YES OR NO)",
+                            ),
+                        ),
+                    },
+                    prompt: Some(
+                        "TRY AGAIN (YES OR NO)",
+                    ),
+                    variables: [
+                        RefCell {
+                            value: Variable {
+                                name: "A$",
+                                token: Token {
+                                    line: 95,
+                                    char: 34,
+                                    source: "A$",
+                                    symbol: Identifier(
+                                        "A$",
+                                    ),
+                                },
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 1025.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 96,
+                        char: 10,
+                        source: ":",
+                        symbol: Colon,
+                    },
+                    expressions: [],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Print {
+            token: Token {
+                line: 96,
+                char: 16,
+                source: "\n",
+                symbol: Newline,
+            },
+            expressions: [],
+            spaced: [
+                false,
+            ],
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 1030.0,
+            statement: RefCell {
+                value: If {
+                    condition: RefCell {
+                        value: Binary {
+                            left: RefCell {
+                                value: Variable {
+                                    name: "A$",
+                                    token: Token {
+                                        line: 97,
+                                        char: 8,
+                                        source: "A$",
+                                        symbol: Identifier(
+                                            "A$",
+                                        ),
+                                    },
+                                },
+                            },
+                            operator: Token {
+                                line: 97,
+                                char: 10,
+                                source: "=",
+                                symbol: Equals,
+                            },
+                            right: RefCell {
+                                value: String(
+                                    "YES",
+                                ),
+                            },
+                        },
+                    },
+                    body: [
+                        RefCell {
+                            value: GoTo {
+                                token: Token {
+                                    line: 97,
+                                    char: 22,
+                                    source: "110",
+                                    symbol: Literal(
+                                        Number(
+                                            110.0,
+                                        ),
+                                    ),
+                                },
+                                label: 110.0,
+                            },
+                        },
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 1040.0,
+            statement: RefCell {
+                value: Print {
+                    token: Token {
+                        line: 98,
+                        char: 10,
+                        source: "\"O.K., HOPE YOU HAD FUN!\"",
+                        symbol: Literal(
+                            String(
+                                "O.K., HOPE YOU HAD FUN!",
+                            ),
+                        ),
+                    },
+                    expressions: [
+                        RefCell {
+                            value: String(
+                                "O.K., HOPE YOU HAD FUN!",
+                            ),
+                        },
+                    ],
+                    spaced: [
+                        false,
+                    ],
+                },
+            },
+        },
+    },
+    RefCell {
+        value: Label {
+            label: 1050.0,
+            statement: RefCell {
+                value: End,
+            },
+        },
+    },
+]

@@ -1,0 +1,4638 @@
+[
+    Token {
+        line: 0,
+        char: 0,
+        source: "10",
+        symbol: Literal(
+            Number(
+                10.0,
+            ),
+        ),
+    },
+    Token {
+        line: 0,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 0,
+        char: 9,
+        source: "TAB",
+        symbol: Identifier(
+            "TAB",
+        ),
+    },
+    Token {
+        line: 0,
+        char: 12,
+        source: "(",
+        symbol: LeftParen,
+    },
+    Token {
+        line: 0,
+        char: 13,
+        source: "26",
+        symbol: Literal(
+            Number(
+                26.0,
+            ),
+        ),
+    },
+    Token {
+        line: 0,
+        char: 15,
+        source: ")",
+        symbol: RightParen,
+    },
+    Token {
+        line: 0,
+        char: 16,
+        source: ";",
+        symbol: SemiColon,
+    },
+    Token {
+        line: 0,
+        char: 17,
+        source: "\"ACEY DUCEY CARD GAME\"",
+        symbol: Literal(
+            String(
+                "ACEY DUCEY CARD GAME",
+            ),
+        ),
+    },
+    Token {
+        line: 0,
+        char: 39,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 1,
+        char: 0,
+        source: "20",
+        symbol: Literal(
+            Number(
+                20.0,
+            ),
+        ),
+    },
+    Token {
+        line: 1,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 1,
+        char: 9,
+        source: "TAB",
+        symbol: Identifier(
+            "TAB",
+        ),
+    },
+    Token {
+        line: 1,
+        char: 12,
+        source: "(",
+        symbol: LeftParen,
+    },
+    Token {
+        line: 1,
+        char: 13,
+        source: "15",
+        symbol: Literal(
+            Number(
+                15.0,
+            ),
+        ),
+    },
+    Token {
+        line: 1,
+        char: 15,
+        source: ")",
+        symbol: RightParen,
+    },
+    Token {
+        line: 1,
+        char: 16,
+        source: ";",
+        symbol: SemiColon,
+    },
+    Token {
+        line: 1,
+        char: 17,
+        source: "\"CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY\"",
+        symbol: Literal(
+            String(
+                "CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY",
+            ),
+        ),
+    },
+    Token {
+        line: 1,
+        char: 61,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 2,
+        char: 0,
+        source: "21",
+        symbol: Literal(
+            Number(
+                21.0,
+            ),
+        ),
+    },
+    Token {
+        line: 2,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 2,
+        char: 8,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 3,
+        char: 0,
+        source: "22",
+        symbol: Literal(
+            Number(
+                22.0,
+            ),
+        ),
+    },
+    Token {
+        line: 3,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 3,
+        char: 8,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 4,
+        char: 0,
+        source: "30",
+        symbol: Literal(
+            Number(
+                30.0,
+            ),
+        ),
+    },
+    Token {
+        line: 4,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 4,
+        char: 8,
+        source: "\"ACEY-DUCEY IS PLAYED IN THE FOLLOWING MANNER \"",
+        symbol: Literal(
+            String(
+                "ACEY-DUCEY IS PLAYED IN THE FOLLOWING MANNER ",
+            ),
+        ),
+    },
+    Token {
+        line: 4,
+        char: 55,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 5,
+        char: 0,
+        source: "40",
+        symbol: Literal(
+            Number(
+                40.0,
+            ),
+        ),
+    },
+    Token {
+        line: 5,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 5,
+        char: 8,
+        source: "\"THE DEALER (COMPUTER) DEALS TWO CARDS FACE UP\"",
+        symbol: Literal(
+            String(
+                "THE DEALER (COMPUTER) DEALS TWO CARDS FACE UP",
+            ),
+        ),
+    },
+    Token {
+        line: 5,
+        char: 55,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 6,
+        char: 0,
+        source: "50",
+        symbol: Literal(
+            Number(
+                50.0,
+            ),
+        ),
+    },
+    Token {
+        line: 6,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 6,
+        char: 8,
+        source: "\"YOU HAVE AN OPTION TO BET OR NOT BET DEPENDING\"",
+        symbol: Literal(
+            String(
+                "YOU HAVE AN OPTION TO BET OR NOT BET DEPENDING",
+            ),
+        ),
+    },
+    Token {
+        line: 6,
+        char: 56,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 7,
+        char: 0,
+        source: "60",
+        symbol: Literal(
+            Number(
+                60.0,
+            ),
+        ),
+    },
+    Token {
+        line: 7,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 7,
+        char: 8,
+        source: "\"ON WHETHER OR NOT YOU FEEL THE CARD WILL HAVE\"",
+        symbol: Literal(
+            String(
+                "ON WHETHER OR NOT YOU FEEL THE CARD WILL HAVE",
+            ),
+        ),
+    },
+    Token {
+        line: 7,
+        char: 55,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 8,
+        char: 0,
+        source: "70",
+        symbol: Literal(
+            Number(
+                70.0,
+            ),
+        ),
+    },
+    Token {
+        line: 8,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 8,
+        char: 8,
+        source: "\"A VALUE BETWEEN THE FIRST TWO.\"",
+        symbol: Literal(
+            String(
+                "A VALUE BETWEEN THE FIRST TWO.",
+            ),
+        ),
+    },
+    Token {
+        line: 8,
+        char: 40,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 9,
+        char: 0,
+        source: "80",
+        symbol: Literal(
+            Number(
+                80.0,
+            ),
+        ),
+    },
+    Token {
+        line: 9,
+        char: 3,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 9,
+        char: 8,
+        source: "\"IF YOU DO NOT WANT TO BET, INPUT A 0\"",
+        symbol: Literal(
+            String(
+                "IF YOU DO NOT WANT TO BET, INPUT A 0",
+            ),
+        ),
+    },
+    Token {
+        line: 9,
+        char: 46,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 10,
+        char: 0,
+        source: "100",
+        symbol: Literal(
+            Number(
+                100.0,
+            ),
+        ),
+    },
+    Token {
+        line: 10,
+        char: 4,
+        source: "N",
+        symbol: Identifier(
+            "N",
+        ),
+    },
+    Token {
+        line: 10,
+        char: 5,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 10,
+        char: 6,
+        source: "100",
+        symbol: Literal(
+            Number(
+                100.0,
+            ),
+        ),
+    },
+    Token {
+        line: 10,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 11,
+        char: 0,
+        source: "110",
+        symbol: Literal(
+            Number(
+                110.0,
+            ),
+        ),
+    },
+    Token {
+        line: 11,
+        char: 4,
+        source: "Q",
+        symbol: Identifier(
+            "Q",
+        ),
+    },
+    Token {
+        line: 11,
+        char: 5,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 11,
+        char: 6,
+        source: "100",
+        symbol: Literal(
+            Number(
+                100.0,
+            ),
+        ),
+    },
+    Token {
+        line: 11,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 12,
+        char: 0,
+        source: "120",
+        symbol: Literal(
+            Number(
+                120.0,
+            ),
+        ),
+    },
+    Token {
+        line: 12,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 12,
+        char: 10,
+        source: "\"YOU NOW HAVE\"",
+        symbol: Literal(
+            String(
+                "YOU NOW HAVE",
+            ),
+        ),
+    },
+    Token {
+        line: 12,
+        char: 24,
+        source: ";",
+        symbol: SemiColon,
+    },
+    Token {
+        line: 12,
+        char: 25,
+        source: "Q",
+        symbol: Identifier(
+            "Q",
+        ),
+    },
+    Token {
+        line: 12,
+        char: 26,
+        source: ";",
+        symbol: SemiColon,
+    },
+    Token {
+        line: 12,
+        char: 27,
+        source: "\"DOLLARS.\"",
+        symbol: Literal(
+            String(
+                "DOLLARS.",
+            ),
+        ),
+    },
+    Token {
+        line: 12,
+        char: 37,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 13,
+        char: 0,
+        source: "130",
+        symbol: Literal(
+            Number(
+                130.0,
+            ),
+        ),
+    },
+    Token {
+        line: 13,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 13,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 14,
+        char: 0,
+        source: "140",
+        symbol: Literal(
+            Number(
+                140.0,
+            ),
+        ),
+    },
+    Token {
+        line: 14,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 14,
+        char: 9,
+        source: "260",
+        symbol: Literal(
+            Number(
+                260.0,
+            ),
+        ),
+    },
+    Token {
+        line: 14,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 15,
+        char: 0,
+        source: "210",
+        symbol: Literal(
+            Number(
+                210.0,
+            ),
+        ),
+    },
+    Token {
+        line: 15,
+        char: 4,
+        source: "Q",
+        symbol: Identifier(
+            "Q",
+        ),
+    },
+    Token {
+        line: 15,
+        char: 5,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 15,
+        char: 6,
+        source: "Q",
+        symbol: Identifier(
+            "Q",
+        ),
+    },
+    Token {
+        line: 15,
+        char: 7,
+        source: "+",
+        symbol: Plus,
+    },
+    Token {
+        line: 15,
+        char: 8,
+        source: "M",
+        symbol: Identifier(
+            "M",
+        ),
+    },
+    Token {
+        line: 15,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 16,
+        char: 0,
+        source: "220",
+        symbol: Literal(
+            Number(
+                220.0,
+            ),
+        ),
+    },
+    Token {
+        line: 16,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 16,
+        char: 9,
+        source: "120",
+        symbol: Literal(
+            Number(
+                120.0,
+            ),
+        ),
+    },
+    Token {
+        line: 16,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 17,
+        char: 0,
+        source: "240",
+        symbol: Literal(
+            Number(
+                240.0,
+            ),
+        ),
+    },
+    Token {
+        line: 17,
+        char: 4,
+        source: "Q",
+        symbol: Identifier(
+            "Q",
+        ),
+    },
+    Token {
+        line: 17,
+        char: 5,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 17,
+        char: 6,
+        source: "Q",
+        symbol: Identifier(
+            "Q",
+        ),
+    },
+    Token {
+        line: 17,
+        char: 7,
+        source: "-",
+        symbol: Minus,
+    },
+    Token {
+        line: 17,
+        char: 8,
+        source: "M",
+        symbol: Identifier(
+            "M",
+        ),
+    },
+    Token {
+        line: 17,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 18,
+        char: 0,
+        source: "250",
+        symbol: Literal(
+            Number(
+                250.0,
+            ),
+        ),
+    },
+    Token {
+        line: 18,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 18,
+        char: 9,
+        source: "120",
+        symbol: Literal(
+            Number(
+                120.0,
+            ),
+        ),
+    },
+    Token {
+        line: 18,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 19,
+        char: 0,
+        source: "260",
+        symbol: Literal(
+            Number(
+                260.0,
+            ),
+        ),
+    },
+    Token {
+        line: 19,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 19,
+        char: 9,
+        source: "\"HERE ARE YOUR NEXT TWO CARDS: \"",
+        symbol: Literal(
+            String(
+                "HERE ARE YOUR NEXT TWO CARDS: ",
+            ),
+        ),
+    },
+    Token {
+        line: 19,
+        char: 41,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 20,
+        char: 0,
+        source: "270",
+        symbol: Literal(
+            Number(
+                270.0,
+            ),
+        ),
+    },
+    Token {
+        line: 20,
+        char: 4,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 20,
+        char: 5,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 20,
+        char: 6,
+        source: "INT",
+        symbol: Identifier(
+            "INT",
+        ),
+    },
+    Token {
+        line: 20,
+        char: 9,
+        source: "(",
+        symbol: LeftParen,
+    },
+    Token {
+        line: 20,
+        char: 10,
+        source: "14",
+        symbol: Literal(
+            Number(
+                14.0,
+            ),
+        ),
+    },
+    Token {
+        line: 20,
+        char: 12,
+        source: "*",
+        symbol: Star,
+    },
+    Token {
+        line: 20,
+        char: 13,
+        source: "RND",
+        symbol: Identifier(
+            "RND",
+        ),
+    },
+    Token {
+        line: 20,
+        char: 16,
+        source: "(",
+        symbol: LeftParen,
+    },
+    Token {
+        line: 20,
+        char: 17,
+        source: "1",
+        symbol: Literal(
+            Number(
+                1.0,
+            ),
+        ),
+    },
+    Token {
+        line: 20,
+        char: 18,
+        source: ")",
+        symbol: RightParen,
+    },
+    Token {
+        line: 20,
+        char: 19,
+        source: ")",
+        symbol: RightParen,
+    },
+    Token {
+        line: 20,
+        char: 20,
+        source: "+",
+        symbol: Plus,
+    },
+    Token {
+        line: 20,
+        char: 21,
+        source: "2",
+        symbol: Literal(
+            Number(
+                2.0,
+            ),
+        ),
+    },
+    Token {
+        line: 20,
+        char: 22,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 21,
+        char: 0,
+        source: "280",
+        symbol: Literal(
+            Number(
+                280.0,
+            ),
+        ),
+    },
+    Token {
+        line: 21,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 21,
+        char: 7,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 21,
+        char: 8,
+        source: "<",
+        symbol: Lesser,
+    },
+    Token {
+        line: 21,
+        char: 9,
+        source: "2",
+        symbol: Literal(
+            Number(
+                2.0,
+            ),
+        ),
+    },
+    Token {
+        line: 21,
+        char: 11,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 21,
+        char: 16,
+        source: "270",
+        symbol: Literal(
+            Number(
+                270.0,
+            ),
+        ),
+    },
+    Token {
+        line: 21,
+        char: 19,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 22,
+        char: 0,
+        source: "290",
+        symbol: Literal(
+            Number(
+                290.0,
+            ),
+        ),
+    },
+    Token {
+        line: 22,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 22,
+        char: 7,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 22,
+        char: 8,
+        source: ">",
+        symbol: Greater,
+    },
+    Token {
+        line: 22,
+        char: 9,
+        source: "14",
+        symbol: Literal(
+            Number(
+                14.0,
+            ),
+        ),
+    },
+    Token {
+        line: 22,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 22,
+        char: 17,
+        source: "270",
+        symbol: Literal(
+            Number(
+                270.0,
+            ),
+        ),
+    },
+    Token {
+        line: 22,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 23,
+        char: 0,
+        source: "300",
+        symbol: Literal(
+            Number(
+                300.0,
+            ),
+        ),
+    },
+    Token {
+        line: 23,
+        char: 4,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 23,
+        char: 5,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 23,
+        char: 6,
+        source: "INT",
+        symbol: Identifier(
+            "INT",
+        ),
+    },
+    Token {
+        line: 23,
+        char: 9,
+        source: "(",
+        symbol: LeftParen,
+    },
+    Token {
+        line: 23,
+        char: 10,
+        source: "14",
+        symbol: Literal(
+            Number(
+                14.0,
+            ),
+        ),
+    },
+    Token {
+        line: 23,
+        char: 12,
+        source: "*",
+        symbol: Star,
+    },
+    Token {
+        line: 23,
+        char: 13,
+        source: "RND",
+        symbol: Identifier(
+            "RND",
+        ),
+    },
+    Token {
+        line: 23,
+        char: 16,
+        source: "(",
+        symbol: LeftParen,
+    },
+    Token {
+        line: 23,
+        char: 17,
+        source: "1",
+        symbol: Literal(
+            Number(
+                1.0,
+            ),
+        ),
+    },
+    Token {
+        line: 23,
+        char: 18,
+        source: ")",
+        symbol: RightParen,
+    },
+    Token {
+        line: 23,
+        char: 19,
+        source: ")",
+        symbol: RightParen,
+    },
+    Token {
+        line: 23,
+        char: 20,
+        source: "+",
+        symbol: Plus,
+    },
+    Token {
+        line: 23,
+        char: 21,
+        source: "2",
+        symbol: Literal(
+            Number(
+                2.0,
+            ),
+        ),
+    },
+    Token {
+        line: 23,
+        char: 22,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 24,
+        char: 0,
+        source: "310",
+        symbol: Literal(
+            Number(
+                310.0,
+            ),
+        ),
+    },
+    Token {
+        line: 24,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 24,
+        char: 7,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 24,
+        char: 8,
+        source: "<",
+        symbol: Lesser,
+    },
+    Token {
+        line: 24,
+        char: 9,
+        source: "2",
+        symbol: Literal(
+            Number(
+                2.0,
+            ),
+        ),
+    },
+    Token {
+        line: 24,
+        char: 11,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 24,
+        char: 16,
+        source: "300",
+        symbol: Literal(
+            Number(
+                300.0,
+            ),
+        ),
+    },
+    Token {
+        line: 24,
+        char: 19,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 25,
+        char: 0,
+        source: "320",
+        symbol: Literal(
+            Number(
+                320.0,
+            ),
+        ),
+    },
+    Token {
+        line: 25,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 25,
+        char: 7,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 25,
+        char: 8,
+        source: ">",
+        symbol: Greater,
+    },
+    Token {
+        line: 25,
+        char: 9,
+        source: "14",
+        symbol: Literal(
+            Number(
+                14.0,
+            ),
+        ),
+    },
+    Token {
+        line: 25,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 25,
+        char: 17,
+        source: "300",
+        symbol: Literal(
+            Number(
+                300.0,
+            ),
+        ),
+    },
+    Token {
+        line: 25,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 26,
+        char: 0,
+        source: "330",
+        symbol: Literal(
+            Number(
+                330.0,
+            ),
+        ),
+    },
+    Token {
+        line: 26,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 26,
+        char: 7,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 26,
+        char: 8,
+        source: ">=",
+        symbol: GreaterEquals,
+    },
+    Token {
+        line: 26,
+        char: 10,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 26,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 26,
+        char: 17,
+        source: "270",
+        symbol: Literal(
+            Number(
+                270.0,
+            ),
+        ),
+    },
+    Token {
+        line: 26,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 27,
+        char: 0,
+        source: "350",
+        symbol: Literal(
+            Number(
+                350.0,
+            ),
+        ),
+    },
+    Token {
+        line: 27,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 27,
+        char: 7,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 27,
+        char: 8,
+        source: "<",
+        symbol: Lesser,
+    },
+    Token {
+        line: 27,
+        char: 9,
+        source: "11",
+        symbol: Literal(
+            Number(
+                11.0,
+            ),
+        ),
+    },
+    Token {
+        line: 27,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 27,
+        char: 17,
+        source: "400",
+        symbol: Literal(
+            Number(
+                400.0,
+            ),
+        ),
+    },
+    Token {
+        line: 27,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 28,
+        char: 0,
+        source: "360",
+        symbol: Literal(
+            Number(
+                360.0,
+            ),
+        ),
+    },
+    Token {
+        line: 28,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 28,
+        char: 7,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 28,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 28,
+        char: 9,
+        source: "11",
+        symbol: Literal(
+            Number(
+                11.0,
+            ),
+        ),
+    },
+    Token {
+        line: 28,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 28,
+        char: 17,
+        source: "420",
+        symbol: Literal(
+            Number(
+                420.0,
+            ),
+        ),
+    },
+    Token {
+        line: 28,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 29,
+        char: 0,
+        source: "370",
+        symbol: Literal(
+            Number(
+                370.0,
+            ),
+        ),
+    },
+    Token {
+        line: 29,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 29,
+        char: 7,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 29,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 29,
+        char: 9,
+        source: "12",
+        symbol: Literal(
+            Number(
+                12.0,
+            ),
+        ),
+    },
+    Token {
+        line: 29,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 29,
+        char: 17,
+        source: "440",
+        symbol: Literal(
+            Number(
+                440.0,
+            ),
+        ),
+    },
+    Token {
+        line: 29,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 30,
+        char: 0,
+        source: "380",
+        symbol: Literal(
+            Number(
+                380.0,
+            ),
+        ),
+    },
+    Token {
+        line: 30,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 30,
+        char: 7,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 30,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 30,
+        char: 9,
+        source: "13",
+        symbol: Literal(
+            Number(
+                13.0,
+            ),
+        ),
+    },
+    Token {
+        line: 30,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 30,
+        char: 17,
+        source: "460",
+        symbol: Literal(
+            Number(
+                460.0,
+            ),
+        ),
+    },
+    Token {
+        line: 30,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 31,
+        char: 0,
+        source: "390",
+        symbol: Literal(
+            Number(
+                390.0,
+            ),
+        ),
+    },
+    Token {
+        line: 31,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 31,
+        char: 7,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 31,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 31,
+        char: 9,
+        source: "14",
+        symbol: Literal(
+            Number(
+                14.0,
+            ),
+        ),
+    },
+    Token {
+        line: 31,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 31,
+        char: 17,
+        source: "480",
+        symbol: Literal(
+            Number(
+                480.0,
+            ),
+        ),
+    },
+    Token {
+        line: 31,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 32,
+        char: 0,
+        source: "400",
+        symbol: Literal(
+            Number(
+                400.0,
+            ),
+        ),
+    },
+    Token {
+        line: 32,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 32,
+        char: 10,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 32,
+        char: 11,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 33,
+        char: 0,
+        source: "410",
+        symbol: Literal(
+            Number(
+                410.0,
+            ),
+        ),
+    },
+    Token {
+        line: 33,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 33,
+        char: 9,
+        source: "500",
+        symbol: Literal(
+            Number(
+                500.0,
+            ),
+        ),
+    },
+    Token {
+        line: 33,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 34,
+        char: 0,
+        source: "420",
+        symbol: Literal(
+            Number(
+                420.0,
+            ),
+        ),
+    },
+    Token {
+        line: 34,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 34,
+        char: 9,
+        source: "\"JACK\"",
+        symbol: Literal(
+            String(
+                "JACK",
+            ),
+        ),
+    },
+    Token {
+        line: 34,
+        char: 15,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 35,
+        char: 0,
+        source: "430",
+        symbol: Literal(
+            Number(
+                430.0,
+            ),
+        ),
+    },
+    Token {
+        line: 35,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 35,
+        char: 9,
+        source: "500",
+        symbol: Literal(
+            Number(
+                500.0,
+            ),
+        ),
+    },
+    Token {
+        line: 35,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 36,
+        char: 0,
+        source: "440",
+        symbol: Literal(
+            Number(
+                440.0,
+            ),
+        ),
+    },
+    Token {
+        line: 36,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 36,
+        char: 9,
+        source: "\"QUEEN\"",
+        symbol: Literal(
+            String(
+                "QUEEN",
+            ),
+        ),
+    },
+    Token {
+        line: 36,
+        char: 16,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 37,
+        char: 0,
+        source: "450",
+        symbol: Literal(
+            Number(
+                450.0,
+            ),
+        ),
+    },
+    Token {
+        line: 37,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 37,
+        char: 9,
+        source: "500",
+        symbol: Literal(
+            Number(
+                500.0,
+            ),
+        ),
+    },
+    Token {
+        line: 37,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 38,
+        char: 0,
+        source: "460",
+        symbol: Literal(
+            Number(
+                460.0,
+            ),
+        ),
+    },
+    Token {
+        line: 38,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 38,
+        char: 9,
+        source: "\"KING\"",
+        symbol: Literal(
+            String(
+                "KING",
+            ),
+        ),
+    },
+    Token {
+        line: 38,
+        char: 15,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 39,
+        char: 0,
+        source: "470",
+        symbol: Literal(
+            Number(
+                470.0,
+            ),
+        ),
+    },
+    Token {
+        line: 39,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 39,
+        char: 9,
+        source: "500",
+        symbol: Literal(
+            Number(
+                500.0,
+            ),
+        ),
+    },
+    Token {
+        line: 39,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 40,
+        char: 0,
+        source: "480",
+        symbol: Literal(
+            Number(
+                480.0,
+            ),
+        ),
+    },
+    Token {
+        line: 40,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 40,
+        char: 9,
+        source: "\"ACE\"",
+        symbol: Literal(
+            String(
+                "ACE",
+            ),
+        ),
+    },
+    Token {
+        line: 40,
+        char: 14,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 41,
+        char: 0,
+        source: "500",
+        symbol: Literal(
+            Number(
+                500.0,
+            ),
+        ),
+    },
+    Token {
+        line: 41,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 41,
+        char: 7,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 41,
+        char: 8,
+        source: "<",
+        symbol: Lesser,
+    },
+    Token {
+        line: 41,
+        char: 9,
+        source: "11",
+        symbol: Literal(
+            Number(
+                11.0,
+            ),
+        ),
+    },
+    Token {
+        line: 41,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 41,
+        char: 17,
+        source: "550",
+        symbol: Literal(
+            Number(
+                550.0,
+            ),
+        ),
+    },
+    Token {
+        line: 41,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 42,
+        char: 0,
+        source: "510",
+        symbol: Literal(
+            Number(
+                510.0,
+            ),
+        ),
+    },
+    Token {
+        line: 42,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 42,
+        char: 7,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 42,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 42,
+        char: 9,
+        source: "11",
+        symbol: Literal(
+            Number(
+                11.0,
+            ),
+        ),
+    },
+    Token {
+        line: 42,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 42,
+        char: 17,
+        source: "570",
+        symbol: Literal(
+            Number(
+                570.0,
+            ),
+        ),
+    },
+    Token {
+        line: 42,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 43,
+        char: 0,
+        source: "520",
+        symbol: Literal(
+            Number(
+                520.0,
+            ),
+        ),
+    },
+    Token {
+        line: 43,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 43,
+        char: 7,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 43,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 43,
+        char: 9,
+        source: "12",
+        symbol: Literal(
+            Number(
+                12.0,
+            ),
+        ),
+    },
+    Token {
+        line: 43,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 43,
+        char: 17,
+        source: "590",
+        symbol: Literal(
+            Number(
+                590.0,
+            ),
+        ),
+    },
+    Token {
+        line: 43,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 44,
+        char: 0,
+        source: "530",
+        symbol: Literal(
+            Number(
+                530.0,
+            ),
+        ),
+    },
+    Token {
+        line: 44,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 44,
+        char: 7,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 44,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 44,
+        char: 9,
+        source: "13",
+        symbol: Literal(
+            Number(
+                13.0,
+            ),
+        ),
+    },
+    Token {
+        line: 44,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 44,
+        char: 17,
+        source: "610",
+        symbol: Literal(
+            Number(
+                610.0,
+            ),
+        ),
+    },
+    Token {
+        line: 44,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 45,
+        char: 0,
+        source: "540",
+        symbol: Literal(
+            Number(
+                540.0,
+            ),
+        ),
+    },
+    Token {
+        line: 45,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 45,
+        char: 7,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 45,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 45,
+        char: 9,
+        source: "14",
+        symbol: Literal(
+            Number(
+                14.0,
+            ),
+        ),
+    },
+    Token {
+        line: 45,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 45,
+        char: 17,
+        source: "630",
+        symbol: Literal(
+            Number(
+                630.0,
+            ),
+        ),
+    },
+    Token {
+        line: 45,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 46,
+        char: 0,
+        source: "550",
+        symbol: Literal(
+            Number(
+                550.0,
+            ),
+        ),
+    },
+    Token {
+        line: 46,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 46,
+        char: 10,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 46,
+        char: 11,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 47,
+        char: 0,
+        source: "560",
+        symbol: Literal(
+            Number(
+                560.0,
+            ),
+        ),
+    },
+    Token {
+        line: 47,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 47,
+        char: 9,
+        source: "650",
+        symbol: Literal(
+            Number(
+                650.0,
+            ),
+        ),
+    },
+    Token {
+        line: 47,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 48,
+        char: 0,
+        source: "570",
+        symbol: Literal(
+            Number(
+                570.0,
+            ),
+        ),
+    },
+    Token {
+        line: 48,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 48,
+        char: 9,
+        source: "\"JACK\"",
+        symbol: Literal(
+            String(
+                "JACK",
+            ),
+        ),
+    },
+    Token {
+        line: 48,
+        char: 15,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 49,
+        char: 0,
+        source: "580",
+        symbol: Literal(
+            Number(
+                580.0,
+            ),
+        ),
+    },
+    Token {
+        line: 49,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 49,
+        char: 9,
+        source: "650",
+        symbol: Literal(
+            Number(
+                650.0,
+            ),
+        ),
+    },
+    Token {
+        line: 49,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 50,
+        char: 0,
+        source: "590",
+        symbol: Literal(
+            Number(
+                590.0,
+            ),
+        ),
+    },
+    Token {
+        line: 50,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 50,
+        char: 9,
+        source: "\"QUEEN\"",
+        symbol: Literal(
+            String(
+                "QUEEN",
+            ),
+        ),
+    },
+    Token {
+        line: 50,
+        char: 16,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 51,
+        char: 0,
+        source: "600",
+        symbol: Literal(
+            Number(
+                600.0,
+            ),
+        ),
+    },
+    Token {
+        line: 51,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 51,
+        char: 9,
+        source: "650",
+        symbol: Literal(
+            Number(
+                650.0,
+            ),
+        ),
+    },
+    Token {
+        line: 51,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 52,
+        char: 0,
+        source: "610",
+        symbol: Literal(
+            Number(
+                610.0,
+            ),
+        ),
+    },
+    Token {
+        line: 52,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 52,
+        char: 9,
+        source: "\"KING\"",
+        symbol: Literal(
+            String(
+                "KING",
+            ),
+        ),
+    },
+    Token {
+        line: 52,
+        char: 15,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 53,
+        char: 0,
+        source: "620",
+        symbol: Literal(
+            Number(
+                620.0,
+            ),
+        ),
+    },
+    Token {
+        line: 53,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 53,
+        char: 9,
+        source: "650",
+        symbol: Literal(
+            Number(
+                650.0,
+            ),
+        ),
+    },
+    Token {
+        line: 53,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 54,
+        char: 0,
+        source: "630",
+        symbol: Literal(
+            Number(
+                630.0,
+            ),
+        ),
+    },
+    Token {
+        line: 54,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 54,
+        char: 9,
+        source: "\"ACE\"",
+        symbol: Literal(
+            String(
+                "ACE",
+            ),
+        ),
+    },
+    Token {
+        line: 54,
+        char: 14,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 55,
+        char: 0,
+        source: "640",
+        symbol: Literal(
+            Number(
+                640.0,
+            ),
+        ),
+    },
+    Token {
+        line: 55,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 55,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 56,
+        char: 0,
+        source: "650",
+        symbol: Literal(
+            Number(
+                650.0,
+            ),
+        ),
+    },
+    Token {
+        line: 56,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 56,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 57,
+        char: 0,
+        source: "660",
+        symbol: Literal(
+            Number(
+                660.0,
+            ),
+        ),
+    },
+    Token {
+        line: 57,
+        char: 4,
+        source: "INPUT",
+        symbol: Keyword(
+            Input,
+        ),
+    },
+    Token {
+        line: 57,
+        char: 9,
+        source: "\"WHAT IS YOUR BET\"",
+        symbol: Literal(
+            String(
+                "WHAT IS YOUR BET",
+            ),
+        ),
+    },
+    Token {
+        line: 57,
+        char: 27,
+        source: ";",
+        symbol: SemiColon,
+    },
+    Token {
+        line: 57,
+        char: 28,
+        source: "M",
+        symbol: Identifier(
+            "M",
+        ),
+    },
+    Token {
+        line: 57,
+        char: 29,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 58,
+        char: 0,
+        source: "670",
+        symbol: Literal(
+            Number(
+                670.0,
+            ),
+        ),
+    },
+    Token {
+        line: 58,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 58,
+        char: 7,
+        source: "M",
+        symbol: Identifier(
+            "M",
+        ),
+    },
+    Token {
+        line: 58,
+        char: 8,
+        source: "<>",
+        symbol: NotEquals,
+    },
+    Token {
+        line: 58,
+        char: 10,
+        source: "0",
+        symbol: Literal(
+            Number(
+                0.0,
+            ),
+        ),
+    },
+    Token {
+        line: 58,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 58,
+        char: 17,
+        source: "680",
+        symbol: Literal(
+            Number(
+                680.0,
+            ),
+        ),
+    },
+    Token {
+        line: 58,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 59,
+        char: 0,
+        source: "675",
+        symbol: Literal(
+            Number(
+                675.0,
+            ),
+        ),
+    },
+    Token {
+        line: 59,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 59,
+        char: 9,
+        source: "\"CHICKEN!!\"",
+        symbol: Literal(
+            String(
+                "CHICKEN!!",
+            ),
+        ),
+    },
+    Token {
+        line: 59,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 60,
+        char: 0,
+        source: "676",
+        symbol: Literal(
+            Number(
+                676.0,
+            ),
+        ),
+    },
+    Token {
+        line: 60,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 60,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 61,
+        char: 0,
+        source: "677",
+        symbol: Literal(
+            Number(
+                677.0,
+            ),
+        ),
+    },
+    Token {
+        line: 61,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 61,
+        char: 9,
+        source: "260",
+        symbol: Literal(
+            Number(
+                260.0,
+            ),
+        ),
+    },
+    Token {
+        line: 61,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 62,
+        char: 0,
+        source: "680",
+        symbol: Literal(
+            Number(
+                680.0,
+            ),
+        ),
+    },
+    Token {
+        line: 62,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 62,
+        char: 7,
+        source: "M",
+        symbol: Identifier(
+            "M",
+        ),
+    },
+    Token {
+        line: 62,
+        char: 8,
+        source: "<=",
+        symbol: LesserEquals,
+    },
+    Token {
+        line: 62,
+        char: 10,
+        source: "Q",
+        symbol: Identifier(
+            "Q",
+        ),
+    },
+    Token {
+        line: 62,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 62,
+        char: 17,
+        source: "730",
+        symbol: Literal(
+            Number(
+                730.0,
+            ),
+        ),
+    },
+    Token {
+        line: 62,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 63,
+        char: 0,
+        source: "690",
+        symbol: Literal(
+            Number(
+                690.0,
+            ),
+        ),
+    },
+    Token {
+        line: 63,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 63,
+        char: 9,
+        source: "\"SORRY, MY FRIEND, BUT YOU BET TOO MUCH.\"",
+        symbol: Literal(
+            String(
+                "SORRY, MY FRIEND, BUT YOU BET TOO MUCH.",
+            ),
+        ),
+    },
+    Token {
+        line: 63,
+        char: 50,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 64,
+        char: 0,
+        source: "700",
+        symbol: Literal(
+            Number(
+                700.0,
+            ),
+        ),
+    },
+    Token {
+        line: 64,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 64,
+        char: 9,
+        source: "\"YOU HAVE ONLY \"",
+        symbol: Literal(
+            String(
+                "YOU HAVE ONLY ",
+            ),
+        ),
+    },
+    Token {
+        line: 64,
+        char: 25,
+        source: ";",
+        symbol: SemiColon,
+    },
+    Token {
+        line: 64,
+        char: 26,
+        source: "Q",
+        symbol: Identifier(
+            "Q",
+        ),
+    },
+    Token {
+        line: 64,
+        char: 27,
+        source: ";",
+        symbol: SemiColon,
+    },
+    Token {
+        line: 64,
+        char: 28,
+        source: "\" DOLLARS TO BET.\"",
+        symbol: Literal(
+            String(
+                " DOLLARS TO BET.",
+            ),
+        ),
+    },
+    Token {
+        line: 64,
+        char: 46,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 65,
+        char: 0,
+        source: "710",
+        symbol: Literal(
+            Number(
+                710.0,
+            ),
+        ),
+    },
+    Token {
+        line: 65,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 65,
+        char: 9,
+        source: "650",
+        symbol: Literal(
+            Number(
+                650.0,
+            ),
+        ),
+    },
+    Token {
+        line: 65,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 66,
+        char: 0,
+        source: "730",
+        symbol: Literal(
+            Number(
+                730.0,
+            ),
+        ),
+    },
+    Token {
+        line: 66,
+        char: 4,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 66,
+        char: 5,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 66,
+        char: 6,
+        source: "INT",
+        symbol: Identifier(
+            "INT",
+        ),
+    },
+    Token {
+        line: 66,
+        char: 9,
+        source: "(",
+        symbol: LeftParen,
+    },
+    Token {
+        line: 66,
+        char: 10,
+        source: "14",
+        symbol: Literal(
+            Number(
+                14.0,
+            ),
+        ),
+    },
+    Token {
+        line: 66,
+        char: 12,
+        source: "*",
+        symbol: Star,
+    },
+    Token {
+        line: 66,
+        char: 13,
+        source: "RND",
+        symbol: Identifier(
+            "RND",
+        ),
+    },
+    Token {
+        line: 66,
+        char: 16,
+        source: "(",
+        symbol: LeftParen,
+    },
+    Token {
+        line: 66,
+        char: 17,
+        source: "1",
+        symbol: Literal(
+            Number(
+                1.0,
+            ),
+        ),
+    },
+    Token {
+        line: 66,
+        char: 18,
+        source: ")",
+        symbol: RightParen,
+    },
+    Token {
+        line: 66,
+        char: 19,
+        source: ")",
+        symbol: RightParen,
+    },
+    Token {
+        line: 66,
+        char: 20,
+        source: "+",
+        symbol: Plus,
+    },
+    Token {
+        line: 66,
+        char: 21,
+        source: "2",
+        symbol: Literal(
+            Number(
+                2.0,
+            ),
+        ),
+    },
+    Token {
+        line: 66,
+        char: 22,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 67,
+        char: 0,
+        source: "740",
+        symbol: Literal(
+            Number(
+                740.0,
+            ),
+        ),
+    },
+    Token {
+        line: 67,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 67,
+        char: 7,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 67,
+        char: 8,
+        source: "<",
+        symbol: Lesser,
+    },
+    Token {
+        line: 67,
+        char: 9,
+        source: "2",
+        symbol: Literal(
+            Number(
+                2.0,
+            ),
+        ),
+    },
+    Token {
+        line: 67,
+        char: 11,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 67,
+        char: 16,
+        source: "730",
+        symbol: Literal(
+            Number(
+                730.0,
+            ),
+        ),
+    },
+    Token {
+        line: 67,
+        char: 19,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 68,
+        char: 0,
+        source: "750",
+        symbol: Literal(
+            Number(
+                750.0,
+            ),
+        ),
+    },
+    Token {
+        line: 68,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 68,
+        char: 7,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 68,
+        char: 8,
+        source: ">",
+        symbol: Greater,
+    },
+    Token {
+        line: 68,
+        char: 9,
+        source: "14",
+        symbol: Literal(
+            Number(
+                14.0,
+            ),
+        ),
+    },
+    Token {
+        line: 68,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 68,
+        char: 17,
+        source: "730",
+        symbol: Literal(
+            Number(
+                730.0,
+            ),
+        ),
+    },
+    Token {
+        line: 68,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 69,
+        char: 0,
+        source: "760",
+        symbol: Literal(
+            Number(
+                760.0,
+            ),
+        ),
+    },
+    Token {
+        line: 69,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 69,
+        char: 7,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 69,
+        char: 8,
+        source: "<",
+        symbol: Lesser,
+    },
+    Token {
+        line: 69,
+        char: 9,
+        source: "11",
+        symbol: Literal(
+            Number(
+                11.0,
+            ),
+        ),
+    },
+    Token {
+        line: 69,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 69,
+        char: 17,
+        source: "810",
+        symbol: Literal(
+            Number(
+                810.0,
+            ),
+        ),
+    },
+    Token {
+        line: 69,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 70,
+        char: 0,
+        source: "770",
+        symbol: Literal(
+            Number(
+                770.0,
+            ),
+        ),
+    },
+    Token {
+        line: 70,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 70,
+        char: 7,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 70,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 70,
+        char: 9,
+        source: "11",
+        symbol: Literal(
+            Number(
+                11.0,
+            ),
+        ),
+    },
+    Token {
+        line: 70,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 70,
+        char: 17,
+        source: "830",
+        symbol: Literal(
+            Number(
+                830.0,
+            ),
+        ),
+    },
+    Token {
+        line: 70,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 71,
+        char: 0,
+        source: "780",
+        symbol: Literal(
+            Number(
+                780.0,
+            ),
+        ),
+    },
+    Token {
+        line: 71,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 71,
+        char: 7,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 71,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 71,
+        char: 9,
+        source: "12",
+        symbol: Literal(
+            Number(
+                12.0,
+            ),
+        ),
+    },
+    Token {
+        line: 71,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 71,
+        char: 17,
+        source: "850",
+        symbol: Literal(
+            Number(
+                850.0,
+            ),
+        ),
+    },
+    Token {
+        line: 71,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 72,
+        char: 0,
+        source: "790",
+        symbol: Literal(
+            Number(
+                790.0,
+            ),
+        ),
+    },
+    Token {
+        line: 72,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 72,
+        char: 7,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 72,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 72,
+        char: 9,
+        source: "13",
+        symbol: Literal(
+            Number(
+                13.0,
+            ),
+        ),
+    },
+    Token {
+        line: 72,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 72,
+        char: 17,
+        source: "870",
+        symbol: Literal(
+            Number(
+                870.0,
+            ),
+        ),
+    },
+    Token {
+        line: 72,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 73,
+        char: 0,
+        source: "800",
+        symbol: Literal(
+            Number(
+                800.0,
+            ),
+        ),
+    },
+    Token {
+        line: 73,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 73,
+        char: 7,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 73,
+        char: 8,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 73,
+        char: 9,
+        source: "14",
+        symbol: Literal(
+            Number(
+                14.0,
+            ),
+        ),
+    },
+    Token {
+        line: 73,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 73,
+        char: 17,
+        source: "890",
+        symbol: Literal(
+            Number(
+                890.0,
+            ),
+        ),
+    },
+    Token {
+        line: 73,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 74,
+        char: 0,
+        source: "810",
+        symbol: Literal(
+            Number(
+                810.0,
+            ),
+        ),
+    },
+    Token {
+        line: 74,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 74,
+        char: 10,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 74,
+        char: 11,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 75,
+        char: 0,
+        source: "820",
+        symbol: Literal(
+            Number(
+                820.0,
+            ),
+        ),
+    },
+    Token {
+        line: 75,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 75,
+        char: 9,
+        source: "910",
+        symbol: Literal(
+            Number(
+                910.0,
+            ),
+        ),
+    },
+    Token {
+        line: 75,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 76,
+        char: 0,
+        source: "830",
+        symbol: Literal(
+            Number(
+                830.0,
+            ),
+        ),
+    },
+    Token {
+        line: 76,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 76,
+        char: 9,
+        source: "\"JACK\"",
+        symbol: Literal(
+            String(
+                "JACK",
+            ),
+        ),
+    },
+    Token {
+        line: 76,
+        char: 15,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 77,
+        char: 0,
+        source: "840",
+        symbol: Literal(
+            Number(
+                840.0,
+            ),
+        ),
+    },
+    Token {
+        line: 77,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 77,
+        char: 9,
+        source: "910",
+        symbol: Literal(
+            Number(
+                910.0,
+            ),
+        ),
+    },
+    Token {
+        line: 77,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 78,
+        char: 0,
+        source: "850",
+        symbol: Literal(
+            Number(
+                850.0,
+            ),
+        ),
+    },
+    Token {
+        line: 78,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 78,
+        char: 9,
+        source: "\"QUEEN\"",
+        symbol: Literal(
+            String(
+                "QUEEN",
+            ),
+        ),
+    },
+    Token {
+        line: 78,
+        char: 16,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 79,
+        char: 0,
+        source: "860",
+        symbol: Literal(
+            Number(
+                860.0,
+            ),
+        ),
+    },
+    Token {
+        line: 79,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 79,
+        char: 9,
+        source: "910",
+        symbol: Literal(
+            Number(
+                910.0,
+            ),
+        ),
+    },
+    Token {
+        line: 79,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 80,
+        char: 0,
+        source: "870",
+        symbol: Literal(
+            Number(
+                870.0,
+            ),
+        ),
+    },
+    Token {
+        line: 80,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 80,
+        char: 9,
+        source: "\"KING\"",
+        symbol: Literal(
+            String(
+                "KING",
+            ),
+        ),
+    },
+    Token {
+        line: 80,
+        char: 15,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 81,
+        char: 0,
+        source: "880",
+        symbol: Literal(
+            Number(
+                880.0,
+            ),
+        ),
+    },
+    Token {
+        line: 81,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 81,
+        char: 9,
+        source: "910",
+        symbol: Literal(
+            Number(
+                910.0,
+            ),
+        ),
+    },
+    Token {
+        line: 81,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 82,
+        char: 0,
+        source: "890",
+        symbol: Literal(
+            Number(
+                890.0,
+            ),
+        ),
+    },
+    Token {
+        line: 82,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 82,
+        char: 10,
+        source: "\"ACE\"",
+        symbol: Literal(
+            String(
+                "ACE",
+            ),
+        ),
+    },
+    Token {
+        line: 82,
+        char: 15,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 83,
+        char: 0,
+        source: "900",
+        symbol: Literal(
+            Number(
+                900.0,
+            ),
+        ),
+    },
+    Token {
+        line: 83,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 83,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 84,
+        char: 0,
+        source: "910",
+        symbol: Literal(
+            Number(
+                910.0,
+            ),
+        ),
+    },
+    Token {
+        line: 84,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 84,
+        char: 7,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 84,
+        char: 8,
+        source: ">",
+        symbol: Greater,
+    },
+    Token {
+        line: 84,
+        char: 9,
+        source: "A",
+        symbol: Identifier(
+            "A",
+        ),
+    },
+    Token {
+        line: 84,
+        char: 11,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 84,
+        char: 16,
+        source: "930",
+        symbol: Literal(
+            Number(
+                930.0,
+            ),
+        ),
+    },
+    Token {
+        line: 84,
+        char: 19,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 85,
+        char: 0,
+        source: "920",
+        symbol: Literal(
+            Number(
+                920.0,
+            ),
+        ),
+    },
+    Token {
+        line: 85,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 85,
+        char: 9,
+        source: "970",
+        symbol: Literal(
+            Number(
+                970.0,
+            ),
+        ),
+    },
+    Token {
+        line: 85,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 86,
+        char: 0,
+        source: "930",
+        symbol: Literal(
+            Number(
+                930.0,
+            ),
+        ),
+    },
+    Token {
+        line: 86,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 86,
+        char: 7,
+        source: "C",
+        symbol: Identifier(
+            "C",
+        ),
+    },
+    Token {
+        line: 86,
+        char: 8,
+        source: ">=",
+        symbol: GreaterEquals,
+    },
+    Token {
+        line: 86,
+        char: 10,
+        source: "B",
+        symbol: Identifier(
+            "B",
+        ),
+    },
+    Token {
+        line: 86,
+        char: 12,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 86,
+        char: 17,
+        source: "970",
+        symbol: Literal(
+            Number(
+                970.0,
+            ),
+        ),
+    },
+    Token {
+        line: 86,
+        char: 20,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 87,
+        char: 0,
+        source: "950",
+        symbol: Literal(
+            Number(
+                950.0,
+            ),
+        ),
+    },
+    Token {
+        line: 87,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 87,
+        char: 9,
+        source: "\"YOU WIN!!!\"",
+        symbol: Literal(
+            String(
+                "YOU WIN!!!",
+            ),
+        ),
+    },
+    Token {
+        line: 87,
+        char: 21,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 88,
+        char: 0,
+        source: "960",
+        symbol: Literal(
+            Number(
+                960.0,
+            ),
+        ),
+    },
+    Token {
+        line: 88,
+        char: 4,
+        source: "GOTO",
+        symbol: Keyword(
+            GoTo,
+        ),
+    },
+    Token {
+        line: 88,
+        char: 9,
+        source: "210",
+        symbol: Literal(
+            Number(
+                210.0,
+            ),
+        ),
+    },
+    Token {
+        line: 88,
+        char: 12,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 89,
+        char: 0,
+        source: "970",
+        symbol: Literal(
+            Number(
+                970.0,
+            ),
+        ),
+    },
+    Token {
+        line: 89,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 89,
+        char: 9,
+        source: "\"SORRY, YOU LOSE\"",
+        symbol: Literal(
+            String(
+                "SORRY, YOU LOSE",
+            ),
+        ),
+    },
+    Token {
+        line: 89,
+        char: 26,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 90,
+        char: 0,
+        source: "980",
+        symbol: Literal(
+            Number(
+                980.0,
+            ),
+        ),
+    },
+    Token {
+        line: 90,
+        char: 4,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 90,
+        char: 7,
+        source: "M",
+        symbol: Identifier(
+            "M",
+        ),
+    },
+    Token {
+        line: 90,
+        char: 8,
+        source: "<",
+        symbol: Lesser,
+    },
+    Token {
+        line: 90,
+        char: 9,
+        source: "Q",
+        symbol: Identifier(
+            "Q",
+        ),
+    },
+    Token {
+        line: 90,
+        char: 11,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 90,
+        char: 16,
+        source: "240",
+        symbol: Literal(
+            Number(
+                240.0,
+            ),
+        ),
+    },
+    Token {
+        line: 90,
+        char: 19,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 91,
+        char: 0,
+        source: "990",
+        symbol: Literal(
+            Number(
+                990.0,
+            ),
+        ),
+    },
+    Token {
+        line: 91,
+        char: 4,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 91,
+        char: 9,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 92,
+        char: 0,
+        source: "1000",
+        symbol: Literal(
+            Number(
+                1000.0,
+            ),
+        ),
+    },
+    Token {
+        line: 92,
+        char: 5,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 92,
+        char: 10,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 93,
+        char: 0,
+        source: "1010",
+        symbol: Literal(
+            Number(
+                1010.0,
+            ),
+        ),
+    },
+    Token {
+        line: 93,
+        char: 5,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 93,
+        char: 10,
+        source: "\"SORRY, FRIEND, BUT YOU BLEW YOUR WAD.\"",
+        symbol: Literal(
+            String(
+                "SORRY, FRIEND, BUT YOU BLEW YOUR WAD.",
+            ),
+        ),
+    },
+    Token {
+        line: 93,
+        char: 49,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 94,
+        char: 0,
+        source: "1015",
+        symbol: Literal(
+            Number(
+                1015.0,
+            ),
+        ),
+    },
+    Token {
+        line: 94,
+        char: 5,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 94,
+        char: 10,
+        source: ":",
+        symbol: Colon,
+    },
+    Token {
+        line: 94,
+        char: 11,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 94,
+        char: 16,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 95,
+        char: 0,
+        source: "1020",
+        symbol: Literal(
+            Number(
+                1020.0,
+            ),
+        ),
+    },
+    Token {
+        line: 95,
+        char: 5,
+        source: "INPUT",
+        symbol: Keyword(
+            Input,
+        ),
+    },
+    Token {
+        line: 95,
+        char: 10,
+        source: "\"TRY AGAIN (YES OR NO)\"",
+        symbol: Literal(
+            String(
+                "TRY AGAIN (YES OR NO)",
+            ),
+        ),
+    },
+    Token {
+        line: 95,
+        char: 33,
+        source: ";",
+        symbol: SemiColon,
+    },
+    Token {
+        line: 95,
+        char: 34,
+        source: "A$",
+        symbol: Identifier(
+            "A$",
+        ),
+    },
+    Token {
+        line: 95,
+        char: 36,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 96,
+        char: 0,
+        source: "1025",
+        symbol: Literal(
+            Number(
+                1025.0,
+            ),
+        ),
+    },
+    Token {
+        line: 96,
+        char: 5,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 96,
+        char: 10,
+        source: ":",
+        symbol: Colon,
+    },
+    Token {
+        line: 96,
+        char: 11,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 96,
+        char: 16,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 97,
+        char: 0,
+        source: "1030",
+        symbol: Literal(
+            Number(
+                1030.0,
+            ),
+        ),
+    },
+    Token {
+        line: 97,
+        char: 5,
+        source: "IF",
+        symbol: Keyword(
+            If,
+        ),
+    },
+    Token {
+        line: 97,
+        char: 8,
+        source: "A$",
+        symbol: Identifier(
+            "A$",
+        ),
+    },
+    Token {
+        line: 97,
+        char: 10,
+        source: "=",
+        symbol: Equals,
+    },
+    Token {
+        line: 97,
+        char: 11,
+        source: "\"YES\"",
+        symbol: Literal(
+            String(
+                "YES",
+            ),
+        ),
+    },
+    Token {
+        line: 97,
+        char: 17,
+        source: "THEN",
+        symbol: Keyword(
+            Then,
+        ),
+    },
+    Token {
+        line: 97,
+        char: 22,
+        source: "110",
+        symbol: Literal(
+            Number(
+                110.0,
+            ),
+        ),
+    },
+    Token {
+        line: 97,
+        char: 25,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 98,
+        char: 0,
+        source: "1040",
+        symbol: Literal(
+            Number(
+                1040.0,
+            ),
+        ),
+    },
+    Token {
+        line: 98,
+        char: 5,
+        source: "PRINT",
+        symbol: Keyword(
+            Print,
+        ),
+    },
+    Token {
+        line: 98,
+        char: 10,
+        source: "\"O.K., HOPE YOU HAD FUN!\"",
+        symbol: Literal(
+            String(
+                "O.K., HOPE YOU HAD FUN!",
+            ),
+        ),
+    },
+    Token {
+        line: 98,
+        char: 35,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 99,
+        char: 0,
+        source: "1050",
+        symbol: Literal(
+            Number(
+                1050.0,
+            ),
+        ),
+    },
+    Token {
+        line: 99,
+        char: 5,
+        source: "END",
+        symbol: Keyword(
+            End,
+        ),
+    },
+    Token {
+        line: 99,
+        char: 8,
+        source: "\n",
+        symbol: Newline,
+    },
+    Token {
+        line: 100,
+        char: 0,
+        source: "",
+        symbol: EOF,
+    },
+]

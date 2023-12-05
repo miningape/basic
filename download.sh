@@ -1,5 +1,7 @@
 #!bin/zsh
 
+# Download script for http://vintage-basic.net/games.html
+
 rm -rf programs
 mkdir programs
 
